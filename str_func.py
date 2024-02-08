@@ -7,3 +7,5 @@ def str_func(string):
 def func_title(string):
     """Функция делает первые буквы заглавными"""
     return string.tittle()
+
+print(None)
